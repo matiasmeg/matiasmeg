@@ -1,5 +1,5 @@
 - 👋 Hola, soy Matías - @matiasmeg
-- 👀 Estoy interesado en desarrollo web
+- 👀 Estoy capacitado en desarrollo web
 - 🌱 Estoy capacitado en HTML5, CSS3, Javascript y Bootstrap
 - 📫 Puedes escribirme a matiasmeg120@gmail.com
 
