@@ -1,6 +1,6 @@
 - 👋 Hola, soy Matías - @matiasmeg
-- 👀 Estoy capacitado en desarrollo web
-- 🌱 Estoy capacitado en HTML5, CSS3, Javascript y Bootstrap
+- 👀 Desarrollo front end
+- 🌱 HTML5, CSS3, Javascript y Bootstrap
 - 📫 Puedes escribirme a matiasmeg120@gmail.com
 
 <!---
